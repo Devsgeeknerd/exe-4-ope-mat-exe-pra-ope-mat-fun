@@ -1,5 +1,19 @@
 <!-- Título -->
-#
+# Exercício 4 — Operadores Matemáticos
+
+***Conteúdo do Exercício:***
+
+Neste exercício, você deve criar um algoritmo que faça o seguinte:
+
+1. Leia as **dimensões** de um retângulo, ou seja, a **base** e a **altura**.
+2. Calcule a **área** do retângulo.
+3. Exiba o resultado da área calculada.
+
+**Dica:** A fórmula para calcular a área do retângulo é:
+
+`area` = `base` * `altura`
+
+[Resposta.](main.c)
 
 > [!IMPORTANT]\
 > **Boas práticas**:
