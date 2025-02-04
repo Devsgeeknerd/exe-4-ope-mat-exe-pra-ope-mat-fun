@@ -19,4 +19,7 @@ void main()
     // Lê o valor da altura de um retângulo.
     // "%f" para ler um número.
     scanf("%f", &altura);
+
+    // Calcula a área do retângulo multiplicando a base pela altura e armazena o resultado em 'area'.
+    area = base * altura;
 }
