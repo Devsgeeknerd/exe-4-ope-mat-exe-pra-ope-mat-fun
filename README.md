@@ -33,6 +33,9 @@ Neste exercício, você deve criar um algoritmo que faça o seguinte:
 >   * No código atual, não há uma validação para verificar se o usuário inseriu um valor valido.
 >   * Adicionar uma verificação para garantir que o valor inserido seja um número válido poderia melhorar a robustez do programa.
 >   * Por exemplo, se o usuário digitar uma letra ou algo não numérico, o programa pode falhar.
+>
+> * **Usar funções:**
+>   * Embora o código sea simples, conforme os programas crescem, é interessante dividir o código em funções para obter a entrada do usuário e outra para calcular a área.
 
 > [!NOTE]\
 > **Observações**:
