@@ -28,6 +28,10 @@ Neste exercício, você deve criar um algoritmo que faça o seguinte:
 > [!WARNING]\
 > **Sugestões de melhoria**:
 >
+> * **Verificar a entrada do usuário:**
+>   * No código atual, não há uma validação para verificar se o usuário inseriu um valor valido.
+>   * Adicionar uma verificação para garantir que o valor inserido seja um número válido poderia melhorar a robustez do programa.
+>   * Por exemplo, se o usuário digitar uma letra ou algo não numérico, o programa pode falhar.
 
 > [!NOTE]\
 > **Observações**:
