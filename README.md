@@ -36,6 +36,10 @@ Neste exercício, você deve criar um algoritmo que faça o seguinte:
 >
 > * **Usar funções:**
 >   * Embora o código sea simples, conforme os programas crescem, é interessante dividir o código em funções para obter a entrada do usuário e outra para calcular a área.
+>
+> * **Comentários:**
+>   * Embora o código tenha sido comentado de forma simples e explicativa, à medida que o código cresce, é importante ter uma boa documentação para as funções.
+>   * Isso pode ser feito utilizando comentários em formato de documentação (usando `/** */` ou outras convenções de comentários).
 
 > [!NOTE]\
 > **Observações**:
