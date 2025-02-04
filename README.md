@@ -47,6 +47,9 @@ Neste exercício, você deve criar um algoritmo que faça o seguinte:
 > * **Escopo das variáveis:**
 >   * As variáveis `base`, `altura`, e `area` são declaradas dentro da função `main` e têm escopo local.
 >   * Isso está correto e evita que as variáveis sejam acessadas de outras partes do código, tornando o código mais seguro.
+>
+> * **Usabilidade:**
+>   * O código é simples e funcional para o que se propõe a fazer, que é calcular a área de um retângulo a partir dos valores inseridos pelo usuário.
 
 <!-- Informações -->
 ## &#8505; Informações
