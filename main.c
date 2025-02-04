@@ -22,4 +22,8 @@ void main()
 
     // Calcula a área do retângulo multiplicando a base pela altura e armazena o resultado em 'area'.
     area = base * altura;
+
+    // Exibe a área do retângulo formatada com duas casas decimais.
+    // "0.2f" significa que o número será exibido com no máximo duas casas decimais após o ponto.
+    printf("A área de um retângulo é: %0.2f", area);
 }
