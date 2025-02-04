@@ -22,6 +22,7 @@ Neste exercício, você deve criar um algoritmo que faça o seguinte:
 >   * O padrão C exige que a função `main` retorne um valor inteiro (`int main()`), indicando se o programa terminou com sucesso (geralmente retornando 0).
 >   * Usar `void main()` pode gerar advertências ou comportamentos inesperados em alguns compiladores.
 >   * A recomendação seria mudar para `int main()` e retornar 0 ao final da função.
+>
 > * **Declaração de variáveis:**
 >   * Embora não haja problemas no código atual, é uma boa prática declarar as variáveis próximos de onde são usadas, ajudando na clareza do código.
 
