@@ -15,4 +15,8 @@ void main()
 
     // Exibe uma mensagem para o usuário digitar o valor da base.
     printf("Digite o valor da base de um retângulo: ");
+
+    // Lê o valor da altura de um retângulo.
+    // "%f" para ler um número.
+    scanf("%f", &altura);
 }
