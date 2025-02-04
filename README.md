@@ -19,6 +19,8 @@ Neste exercício, você deve criar um algoritmo que faça o seguinte:
 > **Boas práticas**:
 >
 > * **Uso de `void main`:**
+>   * O padrão C exige que a função `main` retorne um valor inteiro (`int main()`), indicando se o programa terminou com sucesso (geralmente retornando 0).
+>   * Usar `void main()` pode gerar advertências ou comportamentos inesperados em alguns compiladores.
 
 > [!WARNING]\
 > **Sugestões de melhoria**:
