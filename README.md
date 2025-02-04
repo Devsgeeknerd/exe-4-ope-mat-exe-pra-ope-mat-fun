@@ -18,6 +18,7 @@ Neste exercício, você deve criar um algoritmo que faça o seguinte:
 > [!IMPORTANT]\
 > **Boas práticas**:
 >
+> * **Uso de `void main`:**
 
 > [!WARNING]\
 > **Sugestões de melhoria**:
